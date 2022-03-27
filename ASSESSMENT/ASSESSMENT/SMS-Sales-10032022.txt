@@ -1,0 +1,21 @@
+
+==============================
+ SALES 
+==============================
+Small Chicken -> 20
+Medium Chicken -> 25
+Big Chicken -> 30
+Small Eggs -> 5
+Medium Eggs -> 10
+Big Eggs -> 15
+
+==============================
+ SALES 
+==============================
+Small Chicken -> 4
+Medium Chicken -> 5
+Big Chicken -> 6
+Small Eggs -> 1
+Medium Eggs -> 2
+Big Eggs -> 3
+

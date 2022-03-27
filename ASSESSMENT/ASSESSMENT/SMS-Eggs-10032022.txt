@@ -1,0 +1,3 @@
+Small Eggs -> 9
+Medium Eggs -> 8
+Big Eggs -> 7

@@ -1,0 +1,3 @@
+Small Chicken -> 6
+Medium Chicken -> 5
+Big Chicken -> 4
