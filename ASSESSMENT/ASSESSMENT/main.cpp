@@ -1,5 +1,4 @@
 //
-//  main.cpp
 //  ASSESSMENT - POULTRY MANAGEMENT CLI APPLICATION IN C++
 //
 //  Created by Ayodeji Osasona on 18/03/2022.
