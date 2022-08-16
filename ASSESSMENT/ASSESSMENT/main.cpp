@@ -9,23 +9,23 @@
 
 using namespace std;
 
-//LOOP COUNTER
+//  LOOP COUNTER
 bool loopCounter = true;
 
-//All sales variables at 0
+//  All sales variables at 0
 int smallEggs, mediumEggs, bigEggs, smallChicken, mediumChicken, bigChicken = 0;
 
-//All sales PLACEHOLDER variables at 0
+//  All sales PLACEHOLDER variables at 0
 int smallEggsP, mediumEggsP, bigEggsP, smallChickenP, mediumChickenP, bigChickenP = 0;
 
 
-//All stocks variables at 0
+//  All stocks variables at 0
 int smallEggsStock, mediumEggsStock, bigEggsStock, smallChickenStock, mediumChickenStock, bigChickenStock = 0;
 
-//Program's password
+//  Program's password
 string password = "Ayodeji";
 
-//Action selectors
+//  Action selectors
 int firstSelection, secondSelection, thirdSelection;
 
 
